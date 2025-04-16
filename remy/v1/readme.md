@@ -1,6 +1,6 @@
 # V1
 
-## 📝 Template for Structured Feedback
+## 📝 Structured Feedback
 
 _List each piece of feedback as a bullet point using the format below:_
 
@@ -15,7 +15,7 @@ _List each piece of feedback as a bullet point using the format below:_
       - `Launch a local server`, 
       - `Launch a remote server`.
         <p align="center">
-        <img width="200px" src="img/add_hosting_panel.png" />
+        <img width="500px" src="img/add_hosting_panel.png" />
         </p>
       
         - **Feedback #1**  
