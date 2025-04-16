@@ -1,28 +1,28 @@
 # V1
 
-## Template for structured feedback
+## 📝 Template for Structured Feedback
 
-_List every feedback as a bullet point using the format below:_
+_List each piece of feedback as a bullet point using the format below:_
 
-#### [Document name here] 
+---
 
-- **[slide]** mention name of the feature AND slide number:
-    
-    - **[sub]** mention the name of subfeature OR button OR visual
-        - **feedback #1**:
-            - give a description of your feedback and/or what you added to the slide
-            - don't hesitate to give reasons
-            - add screenshots if you want (store all your screenshots in `img/`)
-                <p align="center">
-                <img width="200px" src="img/screenshot_example.png" />
-                </p>
+### 🔹 **[Document Name Here]**
 
-        - **feedback #2**:
-            - give a description of your feedback and/or what you added to the slide
-            - don't hesitate to give reasons
-            - add screenshots if you want (store all your screenshots in `img/`)
-                <p align="center">
-                <img width="200px" src="img/screenshot_example.png" />
-                </p>
-        - ...
-    
+- **[Slide]**: *Include the name of the feature and the slide number*  
+  Example: `User Onboarding – Slide 3`
+
+    - **[Sub]**: *Mention the subfeature, button, or visual element you're commenting on*  
+      
+        - **Feedback #1**  
+            - Clearly describe your suggestion or what you changed/added to the slide.  
+            - Optionally, explain *why* you made this change.  
+            - Add a screenshot if helpful (store them in the `img/` folder).  
+              <p align="center">
+              <img width="200px" src="img/screenshot_example.png" />
+              </p>
+
+        - **Feedback #2**  
+            - Continue with the same format as above.  
+              <p align="center">
+              <img width="200px" src="img/screenshot_example.png" />
+              </p>

@@ -1,23 +1,31 @@
-# frontend-planning
-Planning our frontend
+# 🧭 Frontend Planning  
+Collaborative space for shaping our frontend.
 
-### Method:
-1) create a folder in the same location as `ref/` with your name (e.g. `remy/`)
-    <p align="center">
-    <img width="200px" src="img/guide1.png" />
-    </p>
+## 🛠️ How to Contribute
 
-2) copy-paste the the versioned directory you want to give feeback for from `ref` into your directory
-    - If you want you give feedback on:
-        ```sh
-        ref/v1/Summoner_app.pptx
-        ```
-        then you the folder `v1/` to your directory (e.g. `remy/v1/`). Then, you should have 
-        ```sh
-        remy/v1/Summoner_app.pptx
-        ```
-    - Only copy-paste the version for which you want to give feeback for;
+1. **Create your personal folder**  
+   In the root directory (alongside `ref/`), create a folder with your name (e.g., `remy/`).
 
-3) Add your feedback in your the document (e.g. `remy/v1/Summoner_app.pptx`).
+   <p align="center">
+     <img width="200px" src="img/guide1.png" />
+   </p>
 
-4) Make sure you report your feedback in the `readme.md` present in your directory using the feedback template.
+2. **Copy the version you want to give feedback on**  
+   From the `ref/` folder, copy the versioned directory you want to review into your own folder.  
+
+   For example, if you’re giving feedback on:  
+   ```
+   ref/v1/Summoner_app.pptx
+   ```
+   Copy the `v1/` folder into your own directory so it becomes:  
+   ```
+   remy/v1/Summoner_app.pptx
+   ```
+
+   > 💡 *Only copy the version you want to comment on.*
+
+3. **Add your feedback directly in the file**  
+   Open and edit the presentation in your directory (e.g., `remy/v1/Summoner_app.pptx`).
+
+4. **Summarize your feedback in your README**  
+   Each personal folder should contain a `readme.md` where you document your feedback using the provided template.
